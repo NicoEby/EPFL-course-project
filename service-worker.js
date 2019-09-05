@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/EPFL-course-project/precache-manifest.9014a87d154875d7db699775c7583718.js"
+  "/EPFL-course-project/precache-manifest.d73c9a5d93e0488222b5ded4a8192fdb.js"
 );
 
 self.addEventListener('message', (event) => {
