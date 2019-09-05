@@ -1,0 +1,9 @@
+{
+    "startText": "Oh hi there! Do you wanna play a game? Press the button!",
+    "roundText": "Quick, before the time elapses. Draw a ",
+    "roundWin": "What a drawing Player. Good job!",
+    "roundLoss": "You are tearing me apart Player...",
+    "gameEven": "Wow... that was unexpectedly average :P",
+    "gameWon": "You did it Good job!",
+    "gameLoss": "Come on... I know you can do better."
+}
